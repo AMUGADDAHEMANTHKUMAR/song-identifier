@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Music Identifier",
+  "description": "A web application that identifies music using the device microphone, transcribes audio, and leverages the Gemini API for song recognition based on lyrical or melodic descriptions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
